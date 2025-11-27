@@ -66,19 +66,12 @@ Learn NGFW with real-world scenarios to secure your small business or homelab ne
 
 ---
 
-## 📸 Featured Image
 
-![Secure n8n Docker Deployment](./path-to-your-featured-image.png)
 
 ---
 
 ## 🛠️ Quick Start
 
-```bash
-git clone https://github.com/yourusername/n8n-docker-stack.git
-cd n8n-docker-stack
-docker compose up -d
-```
 
 Make sure you:
 - Update your domain in `.env` or directly in `docker-compose.yml`
